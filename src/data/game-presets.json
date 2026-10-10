@@ -1,0 +1,2801 @@
+[
+  {
+    "id": "7daystodie",
+    "name": "7 Days to Die",
+    "sourceFile": "7DaystoDie.ts",
+    "catalogGameId": 40,
+    "steamAppId": 251570,
+    "nexusDomain": "7daystodie",
+    "nexusGameId": 1059,
+    "exeNames": [
+      "7DaysToDie.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/251570/header.jpg",
+    "typeNames": [
+      "Mods",
+      "Avatars",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "七日杀"
+  },
+  {
+    "id": "ace7game",
+    "name": "ACE COMBAT 7",
+    "sourceFile": "Ace7Game.ts",
+    "catalogGameId": 341,
+    "steamAppId": 502500,
+    "nexusDomain": "acecombat7skiesunknown",
+    "nexusGameId": 2777,
+    "exeNames": [
+      "Ace7Game.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/502500/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "皇牌空战 7：未知空域"
+  },
+  {
+    "id": "americantrucksimulator",
+    "name": "American Truck Simulator",
+    "sourceFile": "AmericanTruckSimulator.ts",
+    "catalogGameId": 52,
+    "steamAppId": 270880,
+    "nexusDomain": "",
+    "nexusGameId": 0,
+    "exeNames": [
+      "amtrucks.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/270880/header.jpg",
+    "typeNames": [
+      "scs",
+      "manifest",
+      "versions",
+      "游戏根目录",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "美国卡车模拟"
+  },
+  {
+    "id": "anno117",
+    "name": "Anno 117 - Pax Romana",
+    "sourceFile": "Anno117.ts",
+    "catalogGameId": 473,
+    "steamAppId": 3274580,
+    "nexusDomain": "anno117paxromana",
+    "nexusGameId": 8155,
+    "exeNames": [
+      "Anno117.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/3274580/header.jpg",
+    "typeNames": [
+      "mods",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "纪元 117：罗马治下"
+  },
+  {
+    "id": "anno1800",
+    "name": "Anno 1800",
+    "sourceFile": "Anno1800.ts",
+    "catalogGameId": 189,
+    "steamAppId": 916440,
+    "nexusDomain": "anno1800",
+    "nexusGameId": 2820,
+    "exeNames": [
+      "Anno1800.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/916440/header.jpg",
+    "typeNames": [
+      "mods",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "纪元 1800"
+  },
+  {
+    "id": "armoredcore6",
+    "name": "Armored Core 6",
+    "sourceFile": "ArmoredCore6.ts",
+    "catalogGameId": 323,
+    "steamAppId": 1888160,
+    "nexusDomain": "armoredcore6firesofrubicon",
+    "nexusGameId": 5679,
+    "exeNames": [
+      "armoredcore6.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1888160/header.jpg",
+    "typeNames": [
+      "通用类型",
+      "Engine 2"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "装甲核心 6：境界天火"
+  },
+  {
+    "id": "acodyssey",
+    "name": "Assassins Creed Odyssey",
+    "sourceFile": "ACOdyssey.ts",
+    "catalogGameId": 417,
+    "steamAppId": 812140,
+    "nexusDomain": "assassinscreedodyssey",
+    "nexusGameId": 2610,
+    "exeNames": [
+      "ACOdyssey.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/812140/header.jpg",
+    "typeNames": [
+      "forger2",
+      "游戏根目录",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "刺客信条：奥德赛"
+  },
+  {
+    "id": "atomicheart",
+    "name": "Atomic Heart",
+    "sourceFile": "AtomicHeart.ts",
+    "catalogGameId": 304,
+    "steamAppId": 668580,
+    "nexusDomain": "atomicheart",
+    "nexusGameId": 5158,
+    "exeNames": [
+      "AtomicHeart.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/668580/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "原子之心"
+  },
+  {
+    "id": "baldursgate3",
+    "name": "Baldurs Gate 3",
+    "sourceFile": "BaldursGate3.ts",
+    "catalogGameId": 240,
+    "steamAppId": 1086940,
+    "nexusDomain": "baldursgate3",
+    "nexusGameId": 3474,
+    "exeNames": [
+      "bg3.exe",
+      "bg3_dx11.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1086940/header.jpg",
+    "typeNames": [
+      "pak",
+      "Data",
+      "插件",
+      "NativeMods",
+      "bin",
+      "bg3se",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "博德之门 3"
+  },
+  {
+    "id": "blackwukong",
+    "name": "Black Myth Wukong",
+    "sourceFile": "BlackWukong.ts",
+    "catalogGameId": 376,
+    "steamAppId": 2358720,
+    "nexusDomain": "blackmythwukong",
+    "nexusGameId": 6713,
+    "exeNames": [
+      "b1.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2358720/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "launchArgs": "-fileopenlog",
+    "adapterStatus": "implemented",
+    "zhName": "黑神话：悟空"
+  },
+  {
+    "id": "borderlands3",
+    "name": "Borderlands 3",
+    "sourceFile": "Borderlands3.ts",
+    "catalogGameId": 200,
+    "steamAppId": 397540,
+    "nexusDomain": "borderlands3",
+    "nexusGameId": 2953,
+    "exeNames": [
+      "Borderlands3.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/397540/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "无主之地 3"
+  },
+  {
+    "id": "borderlands4",
+    "name": "Borderlands 4",
+    "sourceFile": "Borderlands4.ts",
+    "catalogGameId": 453,
+    "steamAppId": 1285190,
+    "nexusDomain": "borderlands4",
+    "nexusGameId": 8148,
+    "exeNames": [
+      "Borderlands4.exe",
+      "OakGame-Win64-Shipping.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1285190/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "无主之地 4"
+  },
+  {
+    "id": "citiesskylines2",
+    "name": "Cities Skylines II",
+    "sourceFile": "CitiesSkylines2.ts",
+    "catalogGameId": 326,
+    "steamAppId": 949230,
+    "nexusDomain": "citiesskylines2",
+    "nexusGameId": 5833,
+    "exeNames": [
+      "Cities2.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/949230/header.jpg",
+    "typeNames": [
+      "Map"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "城市：天际线 2"
+  },
+  {
+    "id": "expedition33",
+    "name": "Clair Obscur Expedition 33",
+    "sourceFile": "Expedition33.ts",
+    "catalogGameId": 432,
+    "steamAppId": 1903340,
+    "nexusDomain": "clairobscurexpedition33",
+    "nexusGameId": 7635,
+    "exeNames": [
+      "Expedition33_Steam.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1903340/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "光与影：33号远征队"
+  },
+  {
+    "id": "codevein",
+    "name": "CODE VEIN",
+    "sourceFile": "CodeVein.ts",
+    "catalogGameId": 207,
+    "steamAppId": 678960,
+    "nexusDomain": "codevein",
+    "nexusGameId": 2981,
+    "exeNames": [
+      "CodeVein.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/678960/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "噬血代码"
+  },
+  {
+    "id": "redalert2",
+    "name": "Command & Conquer Red Alert 2 and Yuri's Revenge",
+    "sourceFile": "RedAlert2.ts",
+    "catalogGameId": 521,
+    "steamAppId": 2229850,
+    "nexusDomain": "commandandconquerredalert2",
+    "nexusGameId": 1455,
+    "exeNames": [
+      "game.exe",
+      "gamemd.exe",
+      "cnc-ddraw config.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2229850/header.jpg",
+    "typeNames": [
+      "游戏根目录",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "命令与征服：红色警戒 2"
+  },
+  {
+    "id": "contrabandpolice",
+    "name": "Contraband Police",
+    "sourceFile": "ContrabandPolice.ts",
+    "catalogGameId": 339,
+    "steamAppId": 756800,
+    "nexusDomain": "contrabandpolice",
+    "nexusGameId": 5226,
+    "exeNames": [
+      "ContrabandPolice.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/756800/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "缉私警察"
+  },
+  {
+    "id": "crusaderkings3",
+    "name": "Crusader Kings 3",
+    "sourceFile": "CrusaderKings3.ts",
+    "catalogGameId": 236,
+    "steamAppId": 1158310,
+    "nexusDomain": "crusaderkings3",
+    "nexusGameId": 3486,
+    "exeNames": [
+      "ck3.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1158310/header.jpg",
+    "typeNames": [
+      "Mods",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "十字军之王 3"
+  },
+  {
+    "id": "cultofthelamb",
+    "name": "Cult Of The Lamb",
+    "sourceFile": "CultOfTheLamb.ts",
+    "catalogGameId": 342,
+    "steamAppId": 1313140,
+    "nexusDomain": "cultofthelamb",
+    "nexusGameId": 4736,
+    "exeNames": [
+      "Cult Of The Lamb.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1313140/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "咩咩启示录"
+  },
+  {
+    "id": "cyberpunk2077",
+    "name": "Cyberpunk 2077",
+    "sourceFile": "Cyberpunk2077.ts",
+    "catalogGameId": 195,
+    "steamAppId": 1091500,
+    "nexusDomain": "cyberpunk2077",
+    "nexusGameId": 3333,
+    "exeNames": [
+      "Cyberpunk2077.exe",
+      "REDprelauncher.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1091500/header.jpg",
+    "typeNames": [
+      "CET",
+      "archive",
+      "脚本",
+      "主目录",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "赛博朋克 2077"
+  },
+  {
+    "id": "daoyanjue",
+    "name": "DaoYanJue",
+    "sourceFile": "DaoYanJue.ts",
+    "catalogGameId": 350,
+    "steamAppId": 1951220,
+    "nexusDomain": "",
+    "nexusGameId": 0,
+    "exeNames": [
+      "FNGameX.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1951220/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "道衍诀"
+  },
+  {
+    "id": "darkestdungeon",
+    "name": "Darkest Dungeon",
+    "sourceFile": "DarkestDungeon.ts",
+    "catalogGameId": 88,
+    "steamAppId": 262060,
+    "nexusDomain": "darkestdungeon",
+    "nexusGameId": 804,
+    "exeNames": [
+      "Darkest.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/262060/header.jpg",
+    "typeNames": [
+      "mods",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "暗黑地牢"
+  },
+  {
+    "id": "darkestdungeon2",
+    "name": "Darkest Dungeon 2",
+    "sourceFile": "DarkestDungeon2.ts",
+    "catalogGameId": 353,
+    "steamAppId": 1940340,
+    "nexusDomain": "darkestdungeon2",
+    "nexusGameId": 4113,
+    "exeNames": [
+      "Darkest Dungeon II.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1940340/header.jpg",
+    "typeNames": [
+      "StreamingAssets"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "暗黑地牢 2"
+  },
+  {
+    "id": "deadoralive6",
+    "name": "Dead or Alive 6",
+    "sourceFile": "DeadOrAlive6.ts",
+    "catalogGameId": 182,
+    "steamAppId": 838380,
+    "nexusDomain": "",
+    "nexusGameId": 0,
+    "exeNames": [
+      "DOA6.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/838380/header.jpg",
+    "typeNames": [
+      "mods",
+      "Redelbe",
+      "游戏根目录",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "死或生 6"
+  },
+  {
+    "id": "deadrisingdeluxeremaster",
+    "name": "Dead Rising Deluxe Remaster",
+    "sourceFile": "DeadRisingDeluxeRemaster.ts",
+    "catalogGameId": 391,
+    "steamAppId": 2527390,
+    "nexusDomain": "deadrisingdeluxeremaster",
+    "nexusGameId": 6837,
+    "exeNames": [
+      "DRDR.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2527390/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "丧尸围城：豪华复刻版"
+  },
+  {
+    "id": "devilmaycry5",
+    "name": "Devil May Cry 5",
+    "sourceFile": "DevilMayCry5.ts",
+    "catalogGameId": 183,
+    "steamAppId": 601150,
+    "nexusDomain": "devilmaycry5",
+    "nexusGameId": 2751,
+    "exeNames": [
+      "DevilMayCry5.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/601150/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "鬼泣 5"
+  },
+  {
+    "id": "divinityos2",
+    "name": "Divinity Original Sin 2",
+    "sourceFile": "Divinityos2.ts",
+    "catalogGameId": 34,
+    "steamAppId": 435150,
+    "nexusDomain": "divinityoriginalsin2",
+    "nexusGameId": 1661,
+    "exeNames": [
+      "EoCApp.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/435150/header.jpg",
+    "typeNames": [
+      "pak",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "神界：原罪 2"
+  },
+  {
+    "id": "dontstarve",
+    "name": "Don't Starve Together",
+    "sourceFile": "DontStarve.ts",
+    "catalogGameId": 14,
+    "steamAppId": 322330,
+    "nexusDomain": "dontstarvetogether",
+    "nexusGameId": 2709,
+    "exeNames": [
+      "dontstarve_steam.exe",
+      "dontstarve_steam_x64.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/322330/header.jpg",
+    "typeNames": [
+      "通用类型",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "饥荒：联机版"
+  },
+  {
+    "id": "dqiiihd2dremake",
+    "name": "DQIIIHD2DRemake",
+    "sourceFile": "DQIIIHD2DRemake.ts",
+    "catalogGameId": 410,
+    "steamAppId": 2701660,
+    "nexusDomain": "dragonquest3remake",
+    "nexusGameId": 7044,
+    "exeNames": [
+      "DQIIIHD2DRemake.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2701660/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "勇者斗恶龙 III HD-2D 重制版"
+  },
+  {
+    "id": "dbfighterz",
+    "name": "DRAGON BALL FighterZ",
+    "sourceFile": "DBFighterZ.ts",
+    "catalogGameId": 157,
+    "steamAppId": 678950,
+    "nexusDomain": "dragonballfighterz",
+    "nexusGameId": 3948,
+    "exeNames": [
+      "DBFighterZ.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/678950/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "龙珠斗士 Z"
+  },
+  {
+    "id": "dragoncliff",
+    "name": "Dragon Cliff",
+    "sourceFile": "DragonCliff.ts",
+    "catalogGameId": 235,
+    "steamAppId": 758190,
+    "nexusDomain": "",
+    "nexusGameId": 0,
+    "exeNames": [
+      "game.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/758190/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "龙崖"
+  },
+  {
+    "id": "dragonsdogma2",
+    "name": "Dragons Dogma 2",
+    "sourceFile": "DragonsDogma2.ts",
+    "catalogGameId": 343,
+    "steamAppId": 2054970,
+    "nexusDomain": "dragonsdogma2",
+    "nexusGameId": 6234,
+    "exeNames": [
+      "DD2.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2054970/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "龙之信条 2"
+  },
+  {
+    "id": "dyinglight2",
+    "name": "Dying Light 2",
+    "sourceFile": "DyingLight2.ts",
+    "catalogGameId": 272,
+    "steamAppId": 534380,
+    "nexusDomain": "dyinglight2",
+    "nexusGameId": 4302,
+    "exeNames": [
+      "DyingLightGame_x64_rwdi.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/534380/header.jpg",
+    "typeNames": [
+      "dat",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "消逝的光芒 2"
+  },
+  {
+    "id": "dysonsphereprogram",
+    "name": "Dyson Sphere Program",
+    "sourceFile": "DysonSphereProgram.ts",
+    "catalogGameId": 245,
+    "steamAppId": 1366540,
+    "nexusDomain": "dysonsphereprogram",
+    "nexusGameId": 3641,
+    "exeNames": [
+      "DSPGAME.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1366540/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "戴森球计划"
+  },
+  {
+    "id": "eldenring",
+    "name": "ELDEN RING",
+    "sourceFile": "EldenRing.ts",
+    "catalogGameId": 275,
+    "steamAppId": 1245620,
+    "nexusDomain": "eldenring",
+    "nexusGameId": 4333,
+    "exeNames": [
+      "eldenring.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1245620/header.jpg",
+    "typeNames": [
+      "通用类型",
+      "Engine 2",
+      "游戏根目录",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "艾尔登法环"
+  },
+  {
+    "id": "duckov",
+    "name": "Escape from Duckov",
+    "sourceFile": "Duckov.ts",
+    "catalogGameId": 468,
+    "steamAppId": 3167020,
+    "nexusDomain": "",
+    "nexusGameId": 0,
+    "exeNames": [
+      "Duckov.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/3167020/header.jpg",
+    "typeNames": [
+      "mods",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "逃离塔科夫"
+  },
+  {
+    "id": "eurotrucksimulator2",
+    "name": "Euro Truck Simulator 2",
+    "sourceFile": "EuroTruckSimulator2.ts",
+    "catalogGameId": 15,
+    "steamAppId": 227300,
+    "nexusDomain": "eurotrucksimulator2",
+    "nexusGameId": 328,
+    "exeNames": [
+      "eurotrucks2.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/227300/header.jpg",
+    "typeNames": [
+      "scs",
+      "manifest",
+      "versions",
+      "游戏根目录",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "欧洲卡车模拟 2"
+  },
+  {
+    "id": "expeditions",
+    "name": "Expeditions A MudRunner Game",
+    "sourceFile": "Expeditions.ts",
+    "catalogGameId": 356,
+    "steamAppId": 2477340,
+    "nexusDomain": "expeditionsamudrunnergame",
+    "nexusGameId": 6257,
+    "exeNames": [
+      "Expeditions.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2477340/header.jpg",
+    "typeNames": [
+      "pak",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "远征：泥泞奔驰游戏"
+  },
+  {
+    "id": "fallout4",
+    "name": "Fallout 4",
+    "sourceFile": "Fallout4.ts",
+    "catalogGameId": 6,
+    "steamAppId": 377160,
+    "nexusDomain": "fallout4",
+    "nexusGameId": 1151,
+    "exeNames": [
+      "Fallout4.exe",
+      "Fallout4Launcher.exe",
+      "f4se_loader.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/377160/header.jpg",
+    "typeNames": [
+      "Plugins",
+      "Data",
+      "f4se",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "辐射 4"
+  },
+  {
+    "id": "fs22",
+    "name": "Farming Simulator 22",
+    "sourceFile": "FS22.ts",
+    "catalogGameId": 265,
+    "steamAppId": 1248130,
+    "nexusDomain": "",
+    "nexusGameId": 0,
+    "exeNames": [
+      "FarmingSimulator2022.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1248130/header.jpg",
+    "typeNames": [
+      "通用类型",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "模拟农场 22"
+  },
+  {
+    "id": "ff7rebirth",
+    "name": "FINAL FANTASY VII REBIRTH",
+    "sourceFile": "FF7Rebirth.ts",
+    "catalogGameId": 414,
+    "steamAppId": 2909400,
+    "nexusDomain": "finalfantasy7rebirth",
+    "nexusGameId": 7237,
+    "exeNames": [
+      "ff7rebirth.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2909400/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "最终幻想 VII 重生"
+  },
+  {
+    "id": "ff7re",
+    "name": "FINAL FANTASY VII REMAKE",
+    "sourceFile": "FF7RE.ts",
+    "catalogGameId": 266,
+    "steamAppId": 1462040,
+    "nexusDomain": "finalfantasy7remake",
+    "nexusGameId": 4202,
+    "exeNames": [
+      "ff7remake.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1462040/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "最终幻想 VII 重制版"
+  },
+  {
+    "id": "flintlock",
+    "name": "Flintlock The Siege of Dawn",
+    "sourceFile": "Flintlock.ts",
+    "catalogGameId": 368,
+    "steamAppId": 1832040,
+    "nexusDomain": "flintlockthesiegeofdawn",
+    "nexusGameId": 6505,
+    "exeNames": [
+      "Saltpeter.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1832040/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "燧石枪：黎明之围"
+  },
+  {
+    "id": "frostpunk2",
+    "name": "Frostpunk 2",
+    "sourceFile": "Frostpunk2.ts",
+    "catalogGameId": 387,
+    "steamAppId": 1601580,
+    "nexusDomain": "frostpunk2",
+    "nexusGameId": 6349,
+    "exeNames": [
+      "Frostpunk2.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1601580/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "冰汽时代 2"
+  },
+  {
+    "id": "genshin-impact",
+    "name": "Genshin Impact",
+    "sourceFile": "Genshin Impact.ts",
+    "catalogGameId": 291,
+    "steamAppId": 0,
+    "nexusDomain": "genshinimpact",
+    "nexusGameId": 4613,
+    "exeNames": [
+      "GenshinImpact.exe",
+      "YuanShen.exe"
+    ],
+    "coverUrl": "",
+    "typeNames": [
+      "mods",
+      "GIMI",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "原神"
+  },
+  {
+    "id": "ghostoftsushima",
+    "name": "Ghost of Tsushima",
+    "sourceFile": "GhostOfTsushima.ts",
+    "catalogGameId": 351,
+    "steamAppId": 2215430,
+    "nexusDomain": "ghostoftsushima",
+    "nexusGameId": 6434,
+    "exeNames": [
+      "GhostOfTsushima.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2215430/header.jpg",
+    "typeNames": [
+      "psarc",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "对马岛之魂"
+  },
+  {
+    "id": "granbluefantasyrelink",
+    "name": "Granblue Fantasy Relink",
+    "sourceFile": "GranblueFantasyRelink.ts",
+    "catalogGameId": 336,
+    "steamAppId": 881020,
+    "nexusDomain": "",
+    "nexusGameId": 0,
+    "exeNames": [
+      "granblue_fantasy_relink.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/881020/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "碧蓝幻想：Relink"
+  },
+  {
+    "id": "gta5",
+    "name": "Grand Theft Auto V",
+    "sourceFile": "GTA5.ts",
+    "catalogGameId": 261,
+    "steamAppId": 271590,
+    "nexusDomain": "gta5",
+    "nexusGameId": 893,
+    "exeNames": [
+      "GTA5.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/271590/header.jpg",
+    "typeNames": [
+      "通用类型",
+      "脚本",
+      "插件",
+      "载具",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "侠盗猎车手 5"
+  },
+  {
+    "id": "gta5enhanced",
+    "name": "Grand Theft Auto V Enhanced",
+    "sourceFile": "GTA5Enhanced.ts",
+    "catalogGameId": 475,
+    "steamAppId": 3240220,
+    "nexusDomain": "gta5enhanced",
+    "nexusGameId": 7627,
+    "exeNames": [
+      "GTA5_Enhanced.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/3240220/header.jpg",
+    "typeNames": [
+      "通用类型",
+      "脚本",
+      "插件",
+      "载具",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "侠盗猎车手 5 增强版"
+  },
+  {
+    "id": "grimdawn",
+    "name": "Grim Dawn",
+    "sourceFile": "GrimDawn.ts",
+    "catalogGameId": 80,
+    "steamAppId": 219990,
+    "nexusDomain": "grimdawn",
+    "nexusGameId": 1190,
+    "exeNames": [
+      "Grim Dawn.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/219990/header.jpg",
+    "typeNames": [
+      "mods",
+      "游戏根目录",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "恐怖黎明"
+  },
+  {
+    "id": "gtasade",
+    "name": "GTA San Andreas Definitive Edition",
+    "sourceFile": "GTASADE.ts",
+    "catalogGameId": 258,
+    "steamAppId": 1547000,
+    "nexusDomain": "grandtheftautothetrilogy",
+    "nexusGameId": 4142,
+    "exeNames": [
+      "SanAndreas.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1547000/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "侠盗猎车手：圣安地列斯 最终版"
+  },
+  {
+    "id": "gulong",
+    "name": "GuLong",
+    "sourceFile": "GuLong.ts",
+    "catalogGameId": 337,
+    "steamAppId": 2340650,
+    "nexusDomain": "",
+    "nexusGameId": 0,
+    "exeNames": [
+      "GuLong.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2340650/header.jpg",
+    "typeNames": [
+      "Mods"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "古龙风云录"
+  },
+  {
+    "id": "gb4",
+    "name": "GUNDAM BREAKER 4",
+    "sourceFile": "GB4.ts",
+    "catalogGameId": 388,
+    "steamAppId": 1672500,
+    "nexusDomain": "gundambreaker4",
+    "nexusGameId": 6772,
+    "exeNames": [
+      "GB4.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1672500/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "高达破坏者 4"
+  },
+  {
+    "id": "hades2",
+    "name": "Hades2",
+    "sourceFile": "Hades2.ts",
+    "catalogGameId": 349,
+    "steamAppId": 1145350,
+    "nexusDomain": "hades2",
+    "nexusGameId": 6354,
+    "exeNames": [
+      "Hades2.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1145350/header.jpg",
+    "typeNames": [
+      "Mods",
+      "ModImporter",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "哈迪斯 2"
+  },
+  {
+    "id": "haishan",
+    "name": "HaiShan",
+    "sourceFile": "HaiShan.ts",
+    "catalogGameId": 366,
+    "steamAppId": 2180340,
+    "nexusDomain": "",
+    "nexusGameId": 0,
+    "exeNames": [
+      "海山.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2180340/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "海山"
+  },
+  {
+    "id": "hogwartslegacy",
+    "name": "Hogwarts Legacy",
+    "sourceFile": "HogwartsLegacy.ts",
+    "catalogGameId": 302,
+    "steamAppId": 990080,
+    "nexusDomain": "hogwartslegacy",
+    "nexusGameId": 5113,
+    "exeNames": [
+      "HogwartsLegacy.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/990080/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "霍格沃茨之遗"
+  },
+  {
+    "id": "hollowknight",
+    "name": "Hollow Knight",
+    "sourceFile": "HollowKnight.ts",
+    "catalogGameId": 466,
+    "steamAppId": 367520,
+    "nexusDomain": "hollowknight",
+    "nexusGameId": 2698,
+    "exeNames": [
+      "hollow_knight.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/367520/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "空洞骑士"
+  },
+  {
+    "id": "silksong",
+    "name": "Hollow Knight Silksong",
+    "sourceFile": "Silksong.ts",
+    "catalogGameId": 451,
+    "steamAppId": 1030300,
+    "nexusDomain": "hollowknightsilksong",
+    "nexusGameId": 8136,
+    "exeNames": [
+      "Hollow Knight Silksong.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1030300/header.jpg",
+    "typeNames": [
+      "通用类型",
+      "bepinex",
+      "plugins"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "空洞骑士：丝之歌"
+  },
+  {
+    "id": "slaythespire2",
+    "name": "Slay the Spire 2",
+    "sourceFile": "SlayTheSpire2.ts",
+    "catalogGameId": 0,
+    "steamAppId": 2868840,
+    "nexusDomain": "slaythespire2",
+    "nexusGameId": 8916,
+    "exeNames": [
+      "SlayTheSpire2.exe"
+    ],
+    "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/b0958d387dc366211e0f353443710cfcf9fdb020/header.jpg?t=1787169309",
+    "typeNames": [
+      "mods",
+      "dinput8",
+      "root"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "杀戮尖塔 2"
+  },
+  {
+    "id": "homeworld3",
+    "name": "Homeworld 3",
+    "sourceFile": "Homeworld3.ts",
+    "catalogGameId": 312,
+    "steamAppId": 1840080,
+    "nexusDomain": "homeworld3",
+    "nexusGameId": 6432,
+    "exeNames": [
+      "Homeworld3.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1840080/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "家园 3"
+  },
+  {
+    "id": "How to Fish",
+    "name": "How to Fish",
+    "sourceFile": "HowtoFish.ts",
+    "catalogGameId": 0,
+    "steamAppId": 4001890,
+    "nexusDomain": "howtofish",
+    "nexusGameId": 9944,
+    "exeNames": [
+      "How to Fish.exe"
+    ],
+    "coverUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header.jpg",
+    "typeNames": [
+      "bepinex",
+      "plugins"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "渔力全开"
+  },
+  {
+    "id": "humankind",
+    "name": "Humankind",
+    "sourceFile": "Humankind.ts",
+    "catalogGameId": 330,
+    "steamAppId": 1124300,
+    "nexusDomain": "",
+    "nexusGameId": 0,
+    "exeNames": [
+      "Humankind.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1124300/header.jpg",
+    "typeNames": [
+      "mods",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "人类"
+  },
+  {
+    "id": "inzoi",
+    "name": "inZOI",
+    "sourceFile": "InZOI.ts",
+    "catalogGameId": 421,
+    "steamAppId": 2456740,
+    "nexusDomain": "inzoi",
+    "nexusGameId": 7480,
+    "exeNames": [
+      "inZOI.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2456740/header.jpg",
+    "typeNames": [
+      "MODkit"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "inZOI"
+  },
+  {
+    "id": "jaggedalliance3",
+    "name": "Jagged Alliance 3",
+    "sourceFile": "JaggedAlliance3.ts",
+    "catalogGameId": 318,
+    "steamAppId": 1084160,
+    "nexusDomain": "jaggedalliance3",
+    "nexusGameId": 5559,
+    "exeNames": [
+      "JA3.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1084160/header.jpg",
+    "typeNames": [
+      "通用类型",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "铁血联盟 3"
+  },
+  {
+    "id": "jumpforce",
+    "name": "JUMP FORCE",
+    "sourceFile": "JumpForce.ts",
+    "catalogGameId": 181,
+    "steamAppId": 816020,
+    "nexusDomain": "jumpforce",
+    "nexusGameId": 2765,
+    "exeNames": [
+      "JUMP_FORCE.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/816020/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "JUMP大乱斗"
+  },
+  {
+    "id": "just-cause-3",
+    "name": "Just Cause 3",
+    "sourceFile": "Just Cause 3.ts",
+    "catalogGameId": 50,
+    "steamAppId": 225540,
+    "nexusDomain": "justcause3",
+    "nexusGameId": 1946,
+    "exeNames": [
+      "JustCause3.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/225540/header.jpg",
+    "typeNames": [
+      "dropzone",
+      "游戏根目录",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "正当防卫 3"
+  },
+  {
+    "id": "kenshi",
+    "name": "Kenshi",
+    "sourceFile": "Kenshi.ts",
+    "catalogGameId": 186,
+    "steamAppId": 233860,
+    "nexusDomain": "kenshi",
+    "nexusGameId": 736,
+    "exeNames": [
+      "kenshi_x64.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/233860/header.jpg",
+    "typeNames": [
+      "Mods",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "剑士"
+  },
+  {
+    "id": "kerbalspaceprogram",
+    "name": "Kerbal Space Program",
+    "sourceFile": "KerbalSpaceProgram.ts",
+    "catalogGameId": 62,
+    "steamAppId": 220200,
+    "nexusDomain": "kerbalspaceprogram",
+    "nexusGameId": 272,
+    "exeNames": [
+      "KSP_x64.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/220200/header.jpg",
+    "typeNames": [
+      "GameData",
+      "craft",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "坎巴拉太空计划"
+  },
+  {
+    "id": "kingdomcomedeliverance",
+    "name": "Kingdom Come Deliverance",
+    "sourceFile": "KingdomComeDeliverance.ts",
+    "catalogGameId": 155,
+    "steamAppId": 379430,
+    "nexusDomain": "kingdomcomedeliverance",
+    "nexusGameId": 2298,
+    "exeNames": [
+      "KingdomCome.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/379430/header.jpg",
+    "typeNames": [
+      "Mods",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "天国：拯救"
+  },
+  {
+    "id": "kingdomcomedeliverance2",
+    "name": "Kingdom Come Deliverance 2",
+    "sourceFile": "KingdomComeDeliverance2.ts",
+    "catalogGameId": 416,
+    "steamAppId": 1771300,
+    "nexusDomain": "kingdomcomedeliverance2",
+    "nexusGameId": 7286,
+    "exeNames": [
+      "KingdomCome.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1771300/header.jpg",
+    "typeNames": [
+      "Mods",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "天国：拯救 2"
+  },
+  {
+    "id": "l4d2",
+    "name": "Left 4 Dead 2",
+    "sourceFile": "L4D2.ts",
+    "catalogGameId": 12,
+    "steamAppId": 550,
+    "nexusDomain": "left4dead2",
+    "nexusGameId": 195,
+    "exeNames": [
+      "left4dead2.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/550/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "求生之路 2"
+  },
+  {
+    "id": "legendofheros",
+    "name": "Legend of Heroes Three Kingdoms",
+    "sourceFile": "LegendOfHeros.ts",
+    "catalogGameId": 427,
+    "steamAppId": 3020510,
+    "nexusDomain": "",
+    "nexusGameId": 0,
+    "exeNames": [
+      "ThreeKingdom.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/3020510/header.jpg",
+    "typeNames": [
+      "Data",
+      "Portraits"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "三国群英传 8"
+  },
+  {
+    "id": "legendofmortal",
+    "name": "Legend Of Mortal",
+    "sourceFile": "LegendOfMortal.ts",
+    "catalogGameId": 357,
+    "steamAppId": 1859910,
+    "nexusDomain": "legendofmortal",
+    "nexusGameId": 6702,
+    "exeNames": [
+      "Mortal.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1859910/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "活侠传"
+  },
+  {
+    "id": "lethalcompany",
+    "name": "Lethal Company",
+    "sourceFile": "LethalCompany.ts",
+    "catalogGameId": 329,
+    "steamAppId": 1966720,
+    "nexusDomain": "lethalcompany",
+    "nexusGameId": 5848,
+    "exeNames": [
+      "Lethal Company.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1966720/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "致命公司"
+  },
+  {
+    "id": "liesofp",
+    "name": "Lies of P",
+    "sourceFile": "LiesofP.ts",
+    "catalogGameId": 325,
+    "steamAppId": 1627720,
+    "nexusDomain": "liesofp",
+    "nexusGameId": 5441,
+    "exeNames": [
+      "LOP.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1627720/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "匹诺曹的谎言"
+  },
+  {
+    "id": "likeadragon8",
+    "name": "LikeADragon8",
+    "sourceFile": "LikeADragon8.ts",
+    "catalogGameId": 334,
+    "steamAppId": 2072450,
+    "nexusDomain": "",
+    "nexusGameId": 0,
+    "exeNames": [
+      "likeadragon8.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2072450/header.jpg",
+    "typeNames": [
+      "mods",
+      "RyuModManager",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "如龙 8"
+  },
+  {
+    "id": "lordsofthefallen",
+    "name": "Lords of the Fallen",
+    "sourceFile": "LordsOfTheFallen.ts",
+    "catalogGameId": 352,
+    "steamAppId": 1501750,
+    "nexusDomain": "lordsofthefallen2023",
+    "nexusGameId": 5803,
+    "exeNames": [
+      "LOTF2.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1501750/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "堕落之主"
+  },
+  {
+    "id": "manorlords",
+    "name": "Manor Lords",
+    "sourceFile": "ManorLords.ts",
+    "catalogGameId": 348,
+    "steamAppId": 1363080,
+    "nexusDomain": "manorlords",
+    "nexusGameId": 6352,
+    "exeNames": [
+      "ManorLords.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1363080/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "庄园领主"
+  },
+  {
+    "id": "michangsheng",
+    "name": "MiChangSheng",
+    "sourceFile": "MiChangSheng.ts",
+    "catalogGameId": 255,
+    "steamAppId": 1189490,
+    "nexusDomain": "MiChangSheng",
+    "nexusGameId": 99999,
+    "exeNames": [
+      "觅长生.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1189490/header.jpg",
+    "typeNames": [
+      "bin",
+      "插件",
+      "Next类",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "觅长生"
+  },
+  {
+    "id": "monsterhunterwilds",
+    "name": "Monster Hunter Wilds",
+    "sourceFile": "MonsterHunterWilds.ts",
+    "catalogGameId": 420,
+    "steamAppId": 2246340,
+    "nexusDomain": "monsterhunterwilds",
+    "nexusGameId": 6993,
+    "exeNames": [
+      "MonsterHunterWilds.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2246340/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "怪物猎人：荒野"
+  },
+  {
+    "id": "monsterhunterworld",
+    "name": "Monster Hunter World",
+    "sourceFile": "MonsterHunterWorld.ts",
+    "catalogGameId": 161,
+    "steamAppId": 582010,
+    "nexusDomain": "monsterhunterworld",
+    "nexusGameId": 2531,
+    "exeNames": [
+      "MonsterHunterWorld.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/582010/header.jpg",
+    "typeNames": [
+      "Stracker",
+      "通用类型",
+      "插件",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "怪物猎人：世界"
+  },
+  {
+    "id": "monsterhunterrise",
+    "name": "MonsterHunterRise",
+    "sourceFile": "MonsterHunterRise.ts",
+    "catalogGameId": 270,
+    "steamAppId": 1446780,
+    "nexusDomain": "monsterhunterrise",
+    "nexusGameId": 4095,
+    "exeNames": [
+      "MonsterHunterRise.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1446780/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "怪物猎人：崛起"
+  },
+  {
+    "id": "mountblade2",
+    "name": "MountBlade2",
+    "sourceFile": "MountBlade2.ts",
+    "catalogGameId": 225,
+    "steamAppId": 261550,
+    "nexusDomain": "mountandblade2bannerlord",
+    "nexusGameId": 3174,
+    "exeNames": [
+      "Bannerlord.exe",
+      "TaleWorlds.MountAndBlade.Launcher.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/261550/header.jpg",
+    "typeNames": [
+      "Modules",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "骑马与砍杀 2：霸主"
+  },
+  {
+    "id": "nextjianghu2",
+    "name": "Next Jianghu 2",
+    "sourceFile": "NextJianghu2.ts",
+    "catalogGameId": 346,
+    "steamAppId": 1606180,
+    "nexusDomain": "",
+    "nexusGameId": 0,
+    "exeNames": [
+      "下一站江湖Ⅱ.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1606180/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "下一站江湖Ⅱ"
+  },
+  {
+    "id": "nioh2",
+    "name": "Nioh 2",
+    "sourceFile": "Nioh2.ts",
+    "catalogGameId": 249,
+    "steamAppId": 1325200,
+    "nexusDomain": "nioh2",
+    "nexusGameId": 3660,
+    "exeNames": [
+      "nioh2.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1325200/header.jpg",
+    "typeNames": [
+      "Mod Enabler",
+      "mods",
+      "游戏根目录",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "仁王 2"
+  },
+  {
+    "id": "nioh3",
+    "name": "Nioh 3",
+    "sourceFile": "Nioh3.ts",
+    "catalogGameId": 486,
+    "steamAppId": 3681010,
+    "nexusDomain": "nioh3",
+    "nexusGameId": 3660,
+    "exeNames": [
+      "Nioh3.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/3681010/header.jpg",
+    "typeNames": [
+      "tools",
+      "fdata",
+      "游戏根目录",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "仁王 3"
+  },
+  {
+    "id": "nomanssky",
+    "name": "No Man's Sky",
+    "sourceFile": "NoMansSky.ts",
+    "catalogGameId": 24,
+    "steamAppId": 275850,
+    "nexusDomain": "nomanssky",
+    "nexusGameId": 1634,
+    "exeNames": [
+      "NMS.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/275850/header.jpg",
+    "typeNames": [
+      "pak/lua",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "无人深空"
+  },
+  {
+    "id": "oblivionremastered",
+    "name": "Oblivion Remastered",
+    "sourceFile": "OblivionRemastered.ts",
+    "catalogGameId": 430,
+    "steamAppId": 2623190,
+    "nexusDomain": "oblivionremastered",
+    "nexusGameId": 7587,
+    "exeNames": [
+      "OblivionRemastered.exe",
+      "OblivionRemastered-Win64-Shipping.exe",
+      "OblivionRemastered-WinGDK-Shipping.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2623190/header.jpg",
+    "typeNames": [
+      "游戏根目录",
+      "Data",
+      "esp"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "上古卷轴 IV：湮没"
+  },
+  {
+    "id": "pal7",
+    "name": "Pal7",
+    "sourceFile": "Pal7.ts",
+    "catalogGameId": 277,
+    "steamAppId": 1543030,
+    "nexusDomain": "swordandfairy7",
+    "nexusGameId": 4194,
+    "exeNames": [
+      "Pal7.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1543030/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "仙剑奇侠传七"
+  },
+  {
+    "id": "palworld",
+    "name": "Palworld",
+    "sourceFile": "Palworld.ts",
+    "catalogGameId": 333,
+    "steamAppId": 1623730,
+    "nexusDomain": "palworld",
+    "nexusGameId": 6030,
+    "exeNames": [
+      "Palworld.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1623730/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "幻兽帕鲁"
+  },
+  {
+    "id": "planetzoo",
+    "name": "Planet Zoo",
+    "sourceFile": "PlanetZoo.ts",
+    "catalogGameId": 327,
+    "steamAppId": 703080,
+    "nexusDomain": "planetzoo",
+    "nexusGameId": 3100,
+    "exeNames": [
+      "PlanetZoo.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/703080/header.jpg",
+    "typeNames": [
+      "Mods",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "动物园之星"
+  },
+  {
+    "id": "re4remake",
+    "name": "RE4Remake",
+    "sourceFile": "RE4Remake.ts",
+    "catalogGameId": 303,
+    "steamAppId": 2050650,
+    "nexusDomain": "residentevil42023",
+    "nexusGameId": 5195,
+    "exeNames": [
+      "re4.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2050650/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "生化危机 4：重制版"
+  },
+  {
+    "id": "reddeadredemption",
+    "name": "Red Dead Redemption",
+    "sourceFile": "RedDeadRedemption.ts",
+    "catalogGameId": 398,
+    "steamAppId": 2668510,
+    "nexusDomain": "reddeadredemption",
+    "nexusGameId": 5175,
+    "exeNames": [
+      "RDR.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2668510/header.jpg",
+    "typeNames": [
+      "ScriptHookRDR",
+      "RedHook",
+      "asi",
+      "red",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "荒野大镖客：救赎"
+  },
+  {
+    "id": "reddead2",
+    "name": "Red Dead Redemption 2",
+    "sourceFile": "RedDead2.ts",
+    "catalogGameId": 208,
+    "steamAppId": 1174180,
+    "nexusDomain": "reddeadredemption2",
+    "nexusGameId": 3024,
+    "exeNames": [
+      "RDR2.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1174180/header.jpg",
+    "typeNames": [
+      "asi",
+      "lml",
+      "游戏根目录",
+      "ScriptHookRDR2",
+      "script",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "荒野大镖客：救赎 2"
+  },
+  {
+    "id": "re2remake",
+    "name": "Resident Evil 2",
+    "sourceFile": "RE2Remake.ts",
+    "catalogGameId": 180,
+    "steamAppId": 883710,
+    "nexusDomain": "residentevil22019",
+    "nexusGameId": 2702,
+    "exeNames": [
+      "re2.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/883710/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "生化危机 2：重制版"
+  },
+  {
+    "id": "re3remake",
+    "name": "Resident Evil 3",
+    "sourceFile": "RE3Remake.ts",
+    "catalogGameId": 224,
+    "steamAppId": 952060,
+    "nexusDomain": "residentevil32020",
+    "nexusGameId": 3191,
+    "exeNames": [
+      "re3.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/952060/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "生化危机 3：重制版"
+  },
+  {
+    "id": "residentevilrequiem",
+    "name": "Resident Evil Requiem",
+    "sourceFile": "ResidentEvilRequiem.ts",
+    "catalogGameId": 488,
+    "steamAppId": 3764200,
+    "nexusDomain": "residentevilrequiem",
+    "nexusGameId": 8863,
+    "exeNames": [
+      "re9.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/3764200/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "生化危机：安魂曲"
+  },
+  {
+    "id": "residentevilvillage",
+    "name": "Resident Evil Village",
+    "sourceFile": "ResidentEvilVillage.ts",
+    "catalogGameId": 253,
+    "steamAppId": 1196590,
+    "nexusDomain": "residentevilvillage",
+    "nexusGameId": 3669,
+    "exeNames": [
+      "re8.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1196590/header.jpg",
+    "typeNames": [
+      "REFramework",
+      "autorun",
+      "plugins",
+      "模型替换",
+      "主目录",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "生化危机 8：村庄"
+  },
+  {
+    "id": "rimworld",
+    "name": "RimWorld",
+    "sourceFile": "RimWorld.ts",
+    "catalogGameId": 19,
+    "steamAppId": 294100,
+    "nexusDomain": "rimworld",
+    "nexusGameId": 424,
+    "exeNames": [
+      "RimWorldWin64.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/294100/header.jpg",
+    "typeNames": [
+      "通用类型",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "边缘世界"
+  },
+  {
+    "id": "riskofrain2",
+    "name": "Risk of Rain 2",
+    "sourceFile": "RiskofRain2.ts",
+    "catalogGameId": 250,
+    "steamAppId": 632360,
+    "nexusDomain": "",
+    "nexusGameId": 0,
+    "exeNames": [
+      "Risk of Rain 2.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/632360/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "雨中冒险 2"
+  },
+  {
+    "id": "sekiro",
+    "name": "Sekiro",
+    "sourceFile": "Sekiro.ts",
+    "catalogGameId": 185,
+    "steamAppId": 814380,
+    "nexusDomain": "sekiro",
+    "nexusGameId": 2763,
+    "exeNames": [
+      "sekiro.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/814380/header.jpg",
+    "typeNames": [
+      "基础类型",
+      "ModEngine",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "只狼：影逝二度"
+  },
+  {
+    "id": "hellblade2",
+    "name": "Senua's Saga Hellblade 2",
+    "sourceFile": "Hellblade2.ts",
+    "catalogGameId": 355,
+    "steamAppId": 2461850,
+    "nexusDomain": "senuassagahellblade2",
+    "nexusGameId": 6438,
+    "exeNames": [
+      "Hellblade2.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2461850/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "地狱之刃 2：塞娜的史诗"
+  },
+  {
+    "id": "sottr",
+    "name": "Shadow of the Tomb Raider",
+    "sourceFile": "SOTTR.ts",
+    "catalogGameId": 165,
+    "steamAppId": 750920,
+    "nexusDomain": "shadowofthetombraider",
+    "nexusGameId": 2588,
+    "exeNames": [
+      "SOTTR.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/750920/header.jpg",
+    "typeNames": [
+      "forger2",
+      "游戏根目录",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "古墓丽影：暗影"
+  },
+  {
+    "id": "shapez2",
+    "name": "Shapez 2",
+    "sourceFile": "Shapez2.ts",
+    "catalogGameId": 378,
+    "steamAppId": 2162800,
+    "nexusDomain": "",
+    "nexusGameId": 0,
+    "exeNames": [
+      "shapez 2.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2162800/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "异形工厂 2"
+  },
+  {
+    "id": "civilizationvi",
+    "name": "Sid Meier's Civilization VI",
+    "sourceFile": "CivilizationVI.ts",
+    "catalogGameId": 5,
+    "steamAppId": 289070,
+    "nexusDomain": "civilisationvi",
+    "nexusGameId": 1694,
+    "exeNames": [
+      "CivilizationVI.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/289070/header.jpg",
+    "typeNames": [
+      "mods",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "文明 6"
+  },
+  {
+    "id": "civilizationvii",
+    "name": "Sid Meier's Civilization VII",
+    "sourceFile": "CivilizationVII.ts",
+    "catalogGameId": 434,
+    "steamAppId": 1295660,
+    "nexusDomain": "civilizationvii",
+    "nexusGameId": 7318,
+    "exeNames": [
+      "Civ7_Win64_DX12_FinalRelease.exe",
+      "Civ7_Win64_Vulkan_FinalRelease.exe",
+      "FiraxisCrashReporter.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1295660/header.jpg",
+    "typeNames": [
+      "mods",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "文明 7"
+  },
+  {
+    "id": "sifu",
+    "name": "SiFu",
+    "sourceFile": "SiFu.ts",
+    "catalogGameId": 64,
+    "steamAppId": 2138710,
+    "nexusDomain": "sifu",
+    "nexusGameId": 4309,
+    "exeNames": [
+      "Sifu.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2138710/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "师父"
+  },
+  {
+    "id": "silenthillf",
+    "name": "Silent Hill f",
+    "sourceFile": "SILENTHILLf.ts",
+    "catalogGameId": 461,
+    "steamAppId": 2947440,
+    "nexusDomain": "silenthillf",
+    "nexusGameId": 8203,
+    "exeNames": [
+      "SHf.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2947440/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "寂静岭 f"
+  },
+  {
+    "id": "skyrimse",
+    "name": "Skyrim Special Edition",
+    "sourceFile": "SkyrimSE.ts",
+    "catalogGameId": 2,
+    "steamAppId": 489830,
+    "nexusDomain": "skyrimspecialedition",
+    "nexusGameId": 1704,
+    "exeNames": [
+      "SkyrimSE.exe",
+      "skse64_loader.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/489830/header.jpg",
+    "typeNames": [
+      "Data",
+      "skse64",
+      "Plugins",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "上古卷轴 5：天际 特别版"
+  },
+  {
+    "id": "sonsoftheforest",
+    "name": "Sons Of The Forest",
+    "sourceFile": "SonsOfTheForest.ts",
+    "catalogGameId": 305,
+    "steamAppId": 1326470,
+    "nexusDomain": "sonsoftheforest",
+    "nexusGameId": 5165,
+    "exeNames": [
+      "SonsOfTheForest.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1326470/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "森林之子"
+  },
+  {
+    "id": "sparkingzero",
+    "name": "SparkingZERO",
+    "sourceFile": "SparkingZERO.ts",
+    "catalogGameId": 409,
+    "steamAppId": 1790600,
+    "nexusDomain": "dragonballsparkingzero",
+    "nexusGameId": 6892,
+    "exeNames": [
+      "SparkingZERO.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1790600/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "龙珠：电光炸裂！ZERO"
+  },
+  {
+    "id": "stalker2",
+    "name": "Stalker2",
+    "sourceFile": "Stalker2.ts",
+    "catalogGameId": 403,
+    "steamAppId": 1643320,
+    "nexusDomain": "stalker2heartofchornobyl",
+    "nexusGameId": 6944,
+    "exeNames": [
+      "Stalker2.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1643320/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "潜行者 2"
+  },
+  {
+    "id": "stardewvalley",
+    "name": "Stardew Valley",
+    "sourceFile": "StardewValley.ts",
+    "catalogGameId": 10,
+    "steamAppId": 413150,
+    "nexusDomain": "stardewvalley",
+    "nexusGameId": 1303,
+    "exeNames": [
+      "Stardew Valley.exe",
+      "StardewModdingAPI.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/413150/header.jpg",
+    "typeNames": [
+      "SMAPI",
+      "通用",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "星露谷物语"
+  },
+  {
+    "id": "starfield",
+    "name": "Starfield",
+    "sourceFile": "Starfield.ts",
+    "catalogGameId": 321,
+    "steamAppId": 1716740,
+    "nexusDomain": "starfield",
+    "nexusGameId": 4187,
+    "exeNames": [
+      "Starfield.exe",
+      "sfse_loader.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1716740/header.jpg",
+    "typeNames": [
+      "data",
+      "游戏根目录",
+      "sfse",
+      "Plugins",
+      "esp",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "星空"
+  },
+  {
+    "id": "stateofdecay2",
+    "name": "State of Decay 2",
+    "sourceFile": "StateOfDecay2.ts",
+    "catalogGameId": 238,
+    "steamAppId": 495420,
+    "nexusDomain": "stateofdecay2",
+    "nexusGameId": 2433,
+    "exeNames": [
+      "StateOfDecay2.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/495420/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "腐烂国度 2"
+  },
+  {
+    "id": "stellarblade",
+    "name": "Stellar Blade",
+    "sourceFile": "StellarBlade.ts",
+    "catalogGameId": 437,
+    "steamAppId": 3489700,
+    "nexusDomain": "stellarblade",
+    "nexusGameId": 7804,
+    "exeNames": [
+      "SB.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/3489700/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "剑星"
+  },
+  {
+    "id": "stellaris",
+    "name": "Stellaris",
+    "sourceFile": "Stellaris.ts",
+    "catalogGameId": 21,
+    "steamAppId": 281990,
+    "nexusDomain": "stellaris",
+    "nexusGameId": 1606,
+    "exeNames": [
+      "stellaris.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/281990/header.jpg",
+    "typeNames": [
+      "Mods",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "群星"
+  },
+  {
+    "id": "streetfighter6",
+    "name": "Street Fighter 6",
+    "sourceFile": "StreetFighter6.ts",
+    "catalogGameId": 317,
+    "steamAppId": 1364780,
+    "nexusDomain": "streetfighter6",
+    "nexusGameId": 5329,
+    "exeNames": [
+      "StreetFighter6.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1364780/header.jpg",
+    "typeNames": [
+      "REFramework",
+      "autorun",
+      "plugins",
+      "模型替换",
+      "主目录",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "街头霸王 6"
+  },
+  {
+    "id": "subnautica",
+    "name": "Subnautica",
+    "sourceFile": "Subnautica.ts",
+    "catalogGameId": 105,
+    "steamAppId": 264710,
+    "nexusDomain": "subnautica",
+    "nexusGameId": 1155,
+    "exeNames": [
+      "Subnautica.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/264710/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "深海迷航"
+  },
+  {
+    "id": "taleofimmortal",
+    "name": "Tale of Immortal",
+    "sourceFile": "TaleofImmortal.ts",
+    "catalogGameId": 248,
+    "steamAppId": 1468810,
+    "nexusDomain": "taleofimmortal",
+    "nexusGameId": 4447,
+    "exeNames": [
+      "guigubahuang.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1468810/header.jpg",
+    "typeNames": [
+      "通用",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "鬼谷八荒"
+  },
+  {
+    "id": "tekken8",
+    "name": "Tekken 8",
+    "sourceFile": "Tekken8.ts",
+    "catalogGameId": 335,
+    "steamAppId": 1778820,
+    "nexusDomain": "tekken8",
+    "nexusGameId": 5622,
+    "exeNames": [
+      "TEKKEN 8.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1778820/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "铁拳 8"
+  },
+  {
+    "id": "terraria",
+    "name": "Terraria",
+    "sourceFile": "Terraria.ts",
+    "catalogGameId": 320,
+    "steamAppId": 105600,
+    "nexusDomain": "terraria",
+    "nexusGameId": 549,
+    "exeNames": [
+      "Terraria.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/105600/header.jpg",
+    "typeNames": [
+      "pack",
+      "tmod",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "泰拉瑞亚"
+  },
+  {
+    "id": "thecallistoprotocol",
+    "name": "The Callisto Protocol",
+    "sourceFile": "TheCallistoProtocol.ts",
+    "catalogGameId": 345,
+    "steamAppId": 1544020,
+    "nexusDomain": "callistoprotocol",
+    "nexusGameId": 4978,
+    "exeNames": [
+      "TheCallistoProtocol.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1544020/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "木卫四协议"
+  },
+  {
+    "id": "thehuntercotw",
+    "name": "The Hunter CotW",
+    "sourceFile": "TheHunterCotW.ts",
+    "catalogGameId": 322,
+    "steamAppId": 518790,
+    "nexusDomain": "thehuntercallofthewild",
+    "nexusGameId": 3158,
+    "exeNames": [
+      "theHunterCotW_F.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/518790/header.jpg",
+    "typeNames": [
+      "dropzone",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "猎人：荒野的召唤"
+  },
+  {
+    "id": "lastus2",
+    "name": "The Last of Us Part 2",
+    "sourceFile": "LastUs2.ts",
+    "catalogGameId": 429,
+    "steamAppId": 2531310,
+    "nexusDomain": "thelastofuspart2",
+    "nexusGameId": 7521,
+    "exeNames": [
+      "tlou-ii.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2531310/header.jpg",
+    "typeNames": [
+      "modloader",
+      "mods",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "最后生还者 第二部"
+  },
+  {
+    "id": "thelongdark",
+    "name": "The Long Dark",
+    "sourceFile": "TheLongDark.ts",
+    "catalogGameId": 65,
+    "steamAppId": 305620,
+    "nexusDomain": "thelongdark",
+    "nexusGameId": 1779,
+    "exeNames": [
+      "tld.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/305620/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "漫漫长夜"
+  },
+  {
+    "id": "thelostvillage",
+    "name": "The Lost Village",
+    "sourceFile": "TheLostVillage.ts",
+    "catalogGameId": 347,
+    "steamAppId": 1963040,
+    "nexusDomain": "thelostvillage",
+    "nexusGameId": 6362,
+    "exeNames": [
+      "TheLostVillage.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1963040/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "山门与幻境"
+  },
+  {
+    "id": "theroadofjianghu",
+    "name": "The road of Jianghu",
+    "sourceFile": "TheRoadOfJianghu.ts",
+    "catalogGameId": 383,
+    "steamAppId": 2361680,
+    "nexusDomain": "pathofkungfu",
+    "nexusGameId": 6910,
+    "exeNames": [
+      "daojianjianghulu.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2361680/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "江湖路"
+  },
+  {
+    "id": "thescrolloftaiwu",
+    "name": "The Scroll Of Taiwu",
+    "sourceFile": "TheScrollOfTaiwu.ts",
+    "catalogGameId": 167,
+    "steamAppId": 838350,
+    "nexusDomain": "thescrolloftaiwu",
+    "nexusGameId": 99999,
+    "exeNames": [
+      "The Scroll of Taiwu.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/838350/header.jpg",
+    "typeNames": [
+      "通用",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "太吾绘卷"
+  },
+  {
+    "id": "thesims4",
+    "name": "The Sims 4",
+    "sourceFile": "TheSims4.ts",
+    "catalogGameId": 8,
+    "steamAppId": 1222670,
+    "nexusDomain": "thesims4",
+    "nexusGameId": 641,
+    "exeNames": [
+      "TS4_x64.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1222670/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "模拟人生 4"
+  },
+  {
+    "id": "thewitcher3",
+    "name": "The Witcher 3",
+    "sourceFile": "TheWitcher3.ts",
+    "catalogGameId": 4,
+    "steamAppId": 292030,
+    "nexusDomain": "witcher3",
+    "nexusGameId": 952,
+    "exeNames": [
+      "witcher3.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/292030/header.jpg",
+    "typeNames": [
+      "mods",
+      "dlc",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "巫师3：狂猎-重制版",
+    "gameBasePath": "..\\..\\",
+    "scanModTypeIds": ["1"]
+  },
+  {
+    "id": "titanfall2",
+    "name": "Titanfall 2",
+    "sourceFile": "Titanfall2.ts",
+    "catalogGameId": 332,
+    "steamAppId": 1237970,
+    "nexusDomain": "titanfall2",
+    "nexusGameId": 2532,
+    "exeNames": [
+      "Titanfall2.exe",
+      "NorthstarLauncher.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1237970/header.jpg",
+    "typeNames": [
+      "mods",
+      "Northstar",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "泰坦陨落 2"
+  },
+  {
+    "id": "totalwartk",
+    "name": "Total War THREE KINGDOMS",
+    "sourceFile": "TotalWarTK.ts",
+    "catalogGameId": 193,
+    "steamAppId": 779340,
+    "nexusDomain": "totalwarthreekingdoms",
+    "nexusGameId": 2847,
+    "exeNames": [
+      "Three_Kingdoms.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/779340/header.jpg",
+    "typeNames": [
+      "pack",
+      "UI",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "全面战争：三国"
+  },
+  {
+    "id": "tww3",
+    "name": "Total War WARHAMMER III",
+    "sourceFile": "TWW3.ts",
+    "catalogGameId": 273,
+    "steamAppId": 1142710,
+    "nexusDomain": "totalwarwarhammer3",
+    "nexusGameId": 4717,
+    "exeNames": [
+      "Warhammer3.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1142710/header.jpg",
+    "typeNames": [
+      "pack",
+      "UI",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "全面战争：战锤 3"
+  },
+  {
+    "id": "twopointcampus",
+    "name": "Two Point Campus",
+    "sourceFile": "TwoPointCampus.ts",
+    "catalogGameId": 331,
+    "steamAppId": 1649080,
+    "nexusDomain": "twopointcampus",
+    "nexusGameId": 7479,
+    "exeNames": [
+      "TPC.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1649080/header.jpg",
+    "typeNames": [
+      "mods",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "双点校园"
+  },
+  {
+    "id": "valheim",
+    "name": "Valheim",
+    "sourceFile": "Valheim.ts",
+    "catalogGameId": 340,
+    "steamAppId": 892970,
+    "nexusDomain": "valheim",
+    "nexusGameId": 3667,
+    "exeNames": [
+      "valheim.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/892970/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "英灵神殿"
+  },
+  {
+    "id": "vrising",
+    "name": "VRising",
+    "sourceFile": "VRising.ts",
+    "catalogGameId": 285,
+    "steamAppId": 1604030,
+    "nexusDomain": "vrising",
+    "nexusGameId": 4527,
+    "exeNames": [
+      "VRising.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1604030/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "夜族崛起"
+  },
+  {
+    "id": "wanderingsword",
+    "name": "Wandering Sword",
+    "sourceFile": "WanderingSword.ts",
+    "catalogGameId": 328,
+    "steamAppId": 1876890,
+    "nexusDomain": "wanderingsword",
+    "nexusGameId": 5732,
+    "exeNames": [
+      "JH.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1876890/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "逸剑风云决"
+  },
+  {
+    "id": "spacemarine2",
+    "name": "Warhammer 40000 Space Marine 2",
+    "sourceFile": "SpaceMarine2.ts",
+    "catalogGameId": 390,
+    "steamAppId": 2183900,
+    "nexusDomain": "warhammer40000spacemarine2",
+    "nexusGameId": 6771,
+    "exeNames": [
+      "Warhammer 40000 Space Marine 2.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2183900/header.jpg",
+    "typeNames": [
+      "pak",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "战锤 40K：星际战士 2"
+  },
+  {
+    "id": "warmsnow",
+    "name": "WarmSnow",
+    "sourceFile": "WarmSnow.ts",
+    "catalogGameId": 274,
+    "steamAppId": 1296830,
+    "nexusDomain": "",
+    "nexusGameId": 0,
+    "exeNames": [
+      "WarmSnow.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1296830/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "暖雪"
+  },
+  {
+    "id": "warriorsorochi4",
+    "name": "Warriors Orochi 4",
+    "sourceFile": "WarriorsOrochi4.ts",
+    "catalogGameId": 168,
+    "steamAppId": 831560,
+    "nexusDomain": "warriorsorochi4",
+    "nexusGameId": 2624,
+    "exeNames": [
+      "WO4.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/831560/header.jpg",
+    "typeNames": [
+      "bin",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "无双大蛇 3"
+  },
+  {
+    "id": "watchdogs2",
+    "name": "Watch Dogs 2",
+    "sourceFile": "WatchDogs2.ts",
+    "catalogGameId": 176,
+    "steamAppId": 447040,
+    "nexusDomain": "watchdogs2",
+    "nexusGameId": 2454,
+    "exeNames": [
+      "EAC.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/447040/header.jpg",
+    "typeNames": [
+      "dat",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "看门狗 2"
+  },
+  {
+    "id": "wuchangfallenfeathers",
+    "name": "Wuchang Fallen Feathers",
+    "sourceFile": "WuchangFallenFeathers.ts",
+    "catalogGameId": 440,
+    "steamAppId": 2277560,
+    "nexusDomain": "wuchangfallenfeathers",
+    "nexusGameId": 7976,
+    "exeNames": [
+      "Project_Plague.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2277560/header.jpg",
+    "typeNames": [
+      "通用类型"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "明末：渊虚之羽"
+  },
+  {
+    "id": "wulinsh",
+    "name": "WulinSH",
+    "sourceFile": "WulinSH.ts",
+    "catalogGameId": 310,
+    "steamAppId": 1948980,
+    "nexusDomain": "",
+    "nexusGameId": 0,
+    "exeNames": [
+      "Wulin.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1948980/header.jpg",
+    "typeNames": [
+      "mods"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "武林志"
+  },
+  {
+    "id": "x4foundations",
+    "name": "X4 Foundations",
+    "sourceFile": "X4Foundations.ts",
+    "catalogGameId": 178,
+    "steamAppId": 392160,
+    "nexusDomain": "x4foundations",
+    "nexusGameId": 2659,
+    "exeNames": [
+      "X4.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/392160/header.jpg",
+    "typeNames": [
+      "extensions",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "X4：基石"
+  },
+  {
+    "id": "xcom2",
+    "name": "XCOM2",
+    "sourceFile": "Xcom2.ts",
+    "catalogGameId": 38,
+    "steamAppId": 268500,
+    "nexusDomain": "",
+    "nexusGameId": 0,
+    "exeNames": [
+      "XCom2.exe"
+    ],
+    "coverUrl": "https://cdn.akamai.steamstatic.com/steam/apps/268500/header.jpg",
+    "typeNames": [
+      "通用类型",
+      "未知"
+    ],
+    "adapterStatus": "implemented",
+    "zhName": "幽浮 2"
+  }
+]

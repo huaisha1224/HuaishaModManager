@@ -1,0 +1,38 @@
+name: Build Electron App
+
+on:
+  push:
+    branches: [ "main", "master" ]
+
+# 授予写入 Release 的权限
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+    - name: 获取源码
+      uses: actions/checkout@v4
+
+    - name: 配置 Node.js 环境
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+
+    - name: 安装依赖
+      run: npm install
+
+    - name: 执行打包编译
+      run: npm run dist
+      env:
+        # 传入 GitHub Token 解决此报错
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: 提取编译生成的 EXE 文件
+      uses: actions/upload-artifact@v4
+      with:
+        name: ModManager-Electron-Release
+        path: release/*.exe

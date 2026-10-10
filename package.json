@@ -1,0 +1,84 @@
+{
+  "name": "huaisha-mod-manager",
+  "version": "2026.10.9",
+  "description": "怀沙模组管理器 - 跨游戏 mod 管理工具",
+  "author": "Huaisha2049",
+  "private": true,
+  "type": "module",
+  "main": "out/main/main.cjs",
+  "scripts": {
+    "dev": "node scripts/dev.cjs",
+    "build": "vue-tsc --noEmit && electron-vite build && node scripts/copy-resources.cjs",
+    "dist": "npm run build && electron-builder --win",
+    "preview": "electron-vite preview",
+    "typecheck": "vue-tsc --noEmit",
+    "check:adapters": "node scripts/check-adapters.cjs",
+    "check:adapter-rules": "node scripts/check-adapter-rules.cjs",
+    "check:archive-import": "node scripts/check-archive-import-security.cjs",
+    "check:install-safety": "node scripts/check-install-uninstall-safety.cjs",
+    "check:import-flow": "node scripts/check-import-flow.cjs",
+    "check:real-mod-folders": "node scripts/check-real-mod-folders.cjs",
+    "check:all": "npm run typecheck && npm run check:adapters && npm run check:adapter-rules && npm run check:archive-import && npm run check:install-safety && npm run check:import-flow && npm run check:real-mod-folders && npm run build"
+  },
+  "build": {
+    "appId": "com.huaisha.modmanager",
+    "productName": "怀沙模组管理器",
+    "directories": {
+      "output": "release"
+    },
+    "files": [
+      "out/**/*",
+      "resources/**/*",
+      "package.json"
+    ],
+    "extraResources": [
+      {
+        "from": "resources/win-x64/7zip",
+        "to": "resources/win-x64/7zip"
+      },
+      {
+        "from": "resources/ue4ss",
+        "to": "resources/ue4ss"
+      },
+      {
+        "from": "resources/bepinex",
+        "to": "resources/bepinex"
+      }
+    ],
+    "win": {
+      "target": [
+        "nsis",
+        "portable"
+      ],
+      "icon": "resources/icon.ico"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true,
+      "shortcutName": "怀沙模组管理器"
+    }
+  },
+  "dependencies": {
+    "@types/adm-zip": "^0.5.8",
+    "7zip-bin": "^5.2.0",
+    "adm-zip": "^0.6.0",
+    "lucide-vue-next": "^0.468.0",
+    "marked": "^15.0.12",
+    "pinia": "^2.2.6",
+    "undici": "^6.28.0",
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "@vitejs/plugin-vue": "^5.2.1",
+    "electron": "^33.4.11",
+    "electron-builder": "^26.15.3",
+    "electron-vite": "^2.3.0",
+    "typescript": "~5.6.3",
+    "vite": "^5.4.11",
+    "vue-tsc": "^2.1.10"
+  }
+}

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  怀沙模组管理器 - 应用图标矢量源
+  设计:A · 怀字 + 沙色渐变
+  颜色:#E5A659 (沙色) → #C7843A (深沙)
+  用途:文档 / 网页 / 关于页面展示
+  ICO/PNG 由 scripts/generate-icon.cjs 渲染此 SVG 概念
+  注意:"怀" 是 U+6000(不是 U+5B5D 那个是"孝")
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="sandGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E5A659"/>
+      <stop offset="100%" stop-color="#C7843A"/>
+    </linearGradient>
+    <linearGradient id="charShade" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.85"/>
+    </linearGradient>
+    <clipPath id="roundClip">
+      <rect x="0" y="0" width="256" height="256" rx="48" ry="48"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#roundClip)">
+    <!-- 沙色渐变背景 -->
+    <rect width="256" height="256" fill="url(#sandGrad)"/>
+
+    <!-- 右上角 3 颗"mod 沙粒"小点(代表 mod 槽位) -->
+    <g fill="#FFF5DC" fill-opacity="0.75">
+      <circle cx="194" cy="52" r="7"/>
+      <circle cx="214" cy="52" r="7"/>
+      <circle cx="194" cy="72" r="7"/>
+    </g>
+
+    <!-- 居中"怀"字(U+6000,品牌主标识) -->
+    <text x="128" y="138"
+          text-anchor="middle"
+          font-family="Microsoft YaHei, PingFang SC, sans-serif"
+          font-size="156"
+          font-weight="700"
+          fill="url(#charShade)">怀</text>
+  </g>
+
+  <!-- 内描边(白,12% 不透明,提升精致感) -->
+  <rect x="0.5" y="0.5" width="255" height="255" rx="48" ry="48"
+        fill="none" stroke="#FFFFFF" stroke-opacity="0.12" stroke-width="1"/>
+</svg>
